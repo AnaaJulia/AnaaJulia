@@ -1,6 +1,6 @@
 Oii!Eu sou a Ana Julia👋
 
--📚 Estou estudando HTML, JavaScript e CSS.
+-📚 Estudante de HTML, JavaScript, CSS, PHP, Redes e Banco de dados.
 
 <div align="center">
   <a href="https://github.com/AnaaJulia">
