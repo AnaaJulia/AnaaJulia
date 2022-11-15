@@ -1,7 +1,6 @@
 Oii!Eu sou a Ana Julia👋
 
--📚 Estudante de HTML, JavaScript, CSS, PHP, Redes e Banco de dados.
-
+-📚 Estudante de HTML, CSS ,  JavaScript, PHP e Banco de dados.
 <div align="center">
   <a href="https://github.com/AnaaJulia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaaJulia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
